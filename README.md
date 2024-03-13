@@ -1,6 +1,6 @@
 # Electric Vehicle Adoption Analysis for Saudi Market
 
-<picture><img src = "img/readme.png" width = 200px></picture>
+<picture><img src = "img/readme.png" width = 400px></picture>
 
 ## 1. Problem Overview
 
