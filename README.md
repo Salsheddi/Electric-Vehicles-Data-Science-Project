@@ -1,6 +1,6 @@
 # Electric Vehicle Adoption Analysis for Saudi Market
 
-<picture><img src = "https://github.com/Salsheddi/Electric-Vehicles-Data-Science-Project/tree/main/img/readme.png" width = 200px></picture>
+<picture><img src = "img/readme.png" width = 200px></picture>
 
 ## 1. Problem Overview
 
