@@ -1,5 +1,7 @@
 # Electric Vehicle Adoption Analysis for Saudi Market
 
+<picture><img src = "https://github.com/4lena/img/raw/main/imgs/about.gif" width = 40px></picture>
+
 ## 1. Problem Overview
 
 As the CEOs/Founders of a startup focused on the adoption of electric vehicles (EV) in the Saudi market, aligning with Saudi Arabia's Vision 2030 to accelerate the transition to sustainable transportation, we aim to understand the factors influencing consumer preferences, adoption rates, and overall market trends for electric vehicles. To effectively navigate this landscape, our strategies must be grounded in robust data analysis and market insights. Addressing five key questions derived from the data collected will enable us to overcome challenges and make informed decisions.
