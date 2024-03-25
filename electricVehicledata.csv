@@ -1,0 +1,458 @@
+county,city,modelYear,make,model,electricVehicleType,electricRange,electricUtility
+King,Seattle,2020,HYUNDAI,KONA,Battery Electric Vehicle (BEV),258,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+King,Bothell,2022,JEEP,GRAND CHEROKEE,Plug-in Hybrid Electric Vehicle (PHEV),25,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Yakima,Yakima,2023,JEEP,GRAND CHEROKEE,Plug-in Hybrid Electric Vehicle (PHEV),25,PACIFICORP
+King,Kirkland,2018,TESLA,MODEL 3,Battery Electric Vehicle (BEV),215,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Thurston,Olympia,2018,BMW,I3,Plug-in Hybrid Electric Vehicle (PHEV),97,PUGET SOUND ENERGY INC
+Snohomish,Marysville,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),266,PUGET SOUND ENERGY INC
+King,Kent,2017,CHRYSLER,PACIFICA,Plug-in Hybrid Electric Vehicle (PHEV),33,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+King,Woodinville,2020,TESLA,MODEL Y,Battery Electric Vehicle (BEV),291,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Island,Coupeville,2018,TESLA,MODEL 3,Battery Electric Vehicle (BEV),215,PUGET SOUND ENERGY INC
+King,Bellevue,2023,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Kitsap,Port Orchard,2016,FORD,FUSION,Plug-in Hybrid Electric Vehicle (PHEV),19,PUGET SOUND ENERGY INC
+Kitsap,Port Orchard,2017,TOYOTA,PRIUS PRIME,Plug-in Hybrid Electric Vehicle (PHEV),25,PUGET SOUND ENERGY INC
+Snohomish,Mukilteo,2019,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,PUGET SOUND ENERGY INC
+King,Redmond,2019,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Thurston,Rochester,2013,FORD,FUSION,Plug-in Hybrid Electric Vehicle (PHEV),19,PUGET SOUND ENERGY INC
+King,Seattle,2019,AUDI,E-TRON,Battery Electric Vehicle (BEV),204,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+King,Seattle,2015,NISSAN,LEAF,Battery Electric Vehicle (BEV),84,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+Kitsap,Bremerton,2019,KIA,NIRO,Plug-in Hybrid Electric Vehicle (PHEV),26,PUGET SOUND ENERGY INC
+Kitsap,Poulsbo,2014,NISSAN,LEAF,Battery Electric Vehicle (BEV),84,PUGET SOUND ENERGY INC
+King,Kent,2018,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),13,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Snohomish,Marysville,2018,TESLA,MODEL S,Battery Electric Vehicle (BEV),249,PUGET SOUND ENERGY INC
+Kitsap,Bremerton,2013,CHEVROLET,VOLT,Plug-in Hybrid Electric Vehicle (PHEV),38,PUGET SOUND ENERGY INC
+King,Seattle,2014,TOYOTA,RAV4,Battery Electric Vehicle (BEV),103,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+Snohomish,Lake Stevens,2017,TOYOTA,PRIUS PRIME,Plug-in Hybrid Electric Vehicle (PHEV),25,PUGET SOUND ENERGY INC
+Kitsap,Silverdale,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),322,PUGET SOUND ENERGY INC
+Kitsap,Kingston,2016,FORD,C-MAX,Plug-in Hybrid Electric Vehicle (PHEV),19,PUGET SOUND ENERGY INC
+King,Kirkland,2019,VOLKSWAGEN,E-GOLF,Battery Electric Vehicle (BEV),125,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Kitsap,Kingston,2020,TESLA,MODEL S,Battery Electric Vehicle (BEV),330,PUGET SOUND ENERGY INC
+Thurston,Olympia,2015,NISSAN,LEAF,Battery Electric Vehicle (BEV),84,PUGET SOUND ENERGY INC
+Yakima,Yakima,2021,AUDI,E-TRON,Battery Electric Vehicle (BEV),222,PACIFICORP
+King,Enumclaw,2019,KIA,NIRO,Battery Electric Vehicle (BEV),239,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+King,Bellevue,2023,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+King,Seattle,2011,NISSAN,LEAF,Battery Electric Vehicle (BEV),73,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+King,Auburn,2016,FIAT,500,Battery Electric Vehicle (BEV),84,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Yakima,Moxee,2020,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),259,PACIFICORP
+King,Seattle,2023,VOLKSWAGEN,ID.4,Battery Electric Vehicle (BEV),0,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+Yakima,Tieton,2022,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),0,PACIFICORP
+Kitsap,Silverdale,2013,NISSAN,LEAF,Battery Electric Vehicle (BEV),75,PUGET SOUND ENERGY INC
+Kitsap,Port Orchard,2023,BMW,330E,Plug-in Hybrid Electric Vehicle (PHEV),20,PUGET SOUND ENERGY INC
+King,Renton,2019,NISSAN,LEAF,Battery Electric Vehicle (BEV),150,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+King,Bellevue,2017,AUDI,A3,Plug-in Hybrid Electric Vehicle (PHEV),16,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+King,Tukwila,2023,CHRYSLER,PACIFICA,Plug-in Hybrid Electric Vehicle (PHEV),32,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+King,Seatac,2019,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Thurston,Tumwater,2013,FORD,FOCUS,Battery Electric Vehicle (BEV),76,PUGET SOUND ENERGY INC
+Kitsap,Suquamish,2018,CHRYSLER,PACIFICA,Plug-in Hybrid Electric Vehicle (PHEV),33,PUGET SOUND ENERGY INC
+Yakima,Yakima,2022,KIA,SORENTO,Plug-in Hybrid Electric Vehicle (PHEV),32,PACIFICORP
+Island,Oak Harbor,2017,FORD,FUSION,Plug-in Hybrid Electric Vehicle (PHEV),21,PUGET SOUND ENERGY INC
+Snohomish,Bothell,2019,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,PUGET SOUND ENERGY INC
+King,Shoreline,2023,KIA,NIRO,Plug-in Hybrid Electric Vehicle (PHEV),33,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+King,Shoreline,2019,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+Kitsap,Seabeck,2020,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),259,PUGET SOUND ENERGY INC
+King,Sammamish,2002,TOYOTA,RAV4,Battery Electric Vehicle (BEV),95,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+King,Issaquah,2018,TESLA,MODEL 3,Battery Electric Vehicle (BEV),215,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Snohomish,Monroe,2023,HYUNDAI,TUCSON,Plug-in Hybrid Electric Vehicle (PHEV),33,PUGET SOUND ENERGY INC
+Kitsap,Silverdale,2016,TESLA,MODEL X,Battery Electric Vehicle (BEV),200,PUGET SOUND ENERGY INC
+Kitsap,Bainbridge Island,2014,BMW,I3,Plug-in Hybrid Electric Vehicle (PHEV),72,PUGET SOUND ENERGY INC
+King,Shoreline,2020,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),259,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+Thurston,Yelm,2022,KIA,SORENTO,Plug-in Hybrid Electric Vehicle (PHEV),32,PUGET SOUND ENERGY INC
+King,Bellevue,2017,BMW,330E,Plug-in Hybrid Electric Vehicle (PHEV),14,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+King,Seattle,2013,TESLA,MODEL S,Battery Electric Vehicle (BEV),208,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+Snohomish,Lake Stevens,2012,NISSAN,LEAF,Battery Electric Vehicle (BEV),73,PUGET SOUND ENERGY INC
+Thurston,Tumwater,2020,TESLA,MODEL Y,Battery Electric Vehicle (BEV),291,PUGET SOUND ENERGY INC
+King,Kenmore,2012,NISSAN,LEAF,Battery Electric Vehicle (BEV),73,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Thurston,Olympia,2020,TESLA,MODEL X,Battery Electric Vehicle (BEV),289,PUGET SOUND ENERGY INC
+Thurston,Olympia,2020,CHRYSLER,PACIFICA,Plug-in Hybrid Electric Vehicle (PHEV),32,PUGET SOUND ENERGY INC
+King,Burien,2020,VOLVO,XC60,Plug-in Hybrid Electric Vehicle (PHEV),19,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+King,Tukwila,2013,NISSAN,LEAF,Battery Electric Vehicle (BEV),75,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+Snohomish,Stanwood,2013,TESLA,MODEL S,Battery Electric Vehicle (BEV),208,PUGET SOUND ENERGY INC
+King,Seattle,2018,CHEVROLET,VOLT,Plug-in Hybrid Electric Vehicle (PHEV),53,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+King,Sammamish,2012,NISSAN,LEAF,Battery Electric Vehicle (BEV),73,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Kitsap,Poulsbo,2023,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC
+Snohomish,Arlington,2021,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC
+King,Maple Valley,2016,KIA,SOUL,Battery Electric Vehicle (BEV),93,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Kitsap,Poulsbo,2023,KIA,SPORTAGE,Plug-in Hybrid Electric Vehicle (PHEV),34,PUGET SOUND ENERGY INC
+King,Seattle,2022,VOLKSWAGEN,ID.4,Battery Electric Vehicle (BEV),0,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+Kitsap,Bremerton,2022,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),30,PUGET SOUND ENERGY INC
+King,Medina,2018,TESLA,MODEL X,Battery Electric Vehicle (BEV),238,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+King,Renton,2011,NISSAN,LEAF,Battery Electric Vehicle (BEV),73,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Thurston,Olympia,2014,BMW,I3,Battery Electric Vehicle (BEV),81,PUGET SOUND ENERGY INC
+Kitsap,Kingston,2019,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,PUGET SOUND ENERGY INC
+King,Seattle,2020,TESLA,MODEL Y,Battery Electric Vehicle (BEV),291,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+King,Sammamish,2019,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+King,Renton,2013,NISSAN,LEAF,Battery Electric Vehicle (BEV),75,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Snohomish,Bothell,2018,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),238,PUGET SOUND ENERGY INC
+Snohomish,Bothell,2021,MINI,HARDTOP,Battery Electric Vehicle (BEV),110,PUGET SOUND ENERGY INC
+Kitsap,Kingston,2014,TESLA,MODEL S,Battery Electric Vehicle (BEV),208,PUGET SOUND ENERGY INC
+Kitsap,Port Orchard,2017,TESLA,MODEL S,Battery Electric Vehicle (BEV),210,PUGET SOUND ENERGY INC
+King,Federal Way,2023,TESLA,MODEL X,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Snohomish,Snohomish,2022,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),22,PUGET SOUND ENERGY INC
+King,Seattle,2023,AUDI,Q5 E,Plug-in Hybrid Electric Vehicle (PHEV),23,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+Kitsap,Poulsbo,2018,SMART,EQ FORTWO,Battery Electric Vehicle (BEV),58,PUGET SOUND ENERGY INC
+Yakima,Toppenish,2012,NISSAN,LEAF,Battery Electric Vehicle (BEV),73,PACIFICORP
+Snohomish,Lake Stevens,2020,TESLA,MODEL Y,Battery Electric Vehicle (BEV),291,PUGET SOUND ENERGY INC
+King,Renton,2018,TESLA,MODEL 3,Battery Electric Vehicle (BEV),215,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+King,Renton,2021,BMW,X3,Plug-in Hybrid Electric Vehicle (PHEV),17,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Kitsap,Bainbridge Island,2023,KIA,NIRO,Plug-in Hybrid Electric Vehicle (PHEV),33,PUGET SOUND ENERGY INC
+King,Seattle,2019,NISSAN,LEAF,Battery Electric Vehicle (BEV),150,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+Snohomish,Everett,2019,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,PUGET SOUND ENERGY INC
+Thurston,Olympia,2018,TESLA,MODEL 3,Battery Electric Vehicle (BEV),215,PUGET SOUND ENERGY INC
+King,Seattle,2019,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),238,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+Snohomish,Lynnwood,2014,CHEVROLET,VOLT,Plug-in Hybrid Electric Vehicle (PHEV),38,PUGET SOUND ENERGY INC
+King,Sammamish,2016,TESLA,MODEL X,Battery Electric Vehicle (BEV),200,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+King,Maple Valley,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),322,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Snohomish,Bothell,2018,TESLA,MODEL 3,Battery Electric Vehicle (BEV),215,PUGET SOUND ENERGY INC
+Kitsap,Bremerton,2016,FORD,FUSION,Plug-in Hybrid Electric Vehicle (PHEV),19,PUGET SOUND ENERGY INC
+King,Seattle,2018,NISSAN,LEAF,Battery Electric Vehicle (BEV),151,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+King,Seattle,2014,CHEVROLET,VOLT,Plug-in Hybrid Electric Vehicle (PHEV),38,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+King,Auburn,2018,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),13,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Snohomish,Lynnwood,2021,AUDI,Q5 E,Plug-in Hybrid Electric Vehicle (PHEV),18,PUGET SOUND ENERGY INC
+Snohomish,Lynnwood,2018,TESLA,MODEL 3,Battery Electric Vehicle (BEV),215,PUGET SOUND ENERGY INC
+King,Des Moines,2023,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Thurston,Lacey,2016,BMW,I3,Plug-in Hybrid Electric Vehicle (PHEV),72,PUGET SOUND ENERGY INC
+Yakima,Yakima,2023,RIVIAN,R1S,Battery Electric Vehicle (BEV),0,PACIFICORP
+Snohomish,Bothell,2018,TESLA,MODEL S,Battery Electric Vehicle (BEV),249,PUGET SOUND ENERGY INC
+King,Covington,2020,KIA,NIRO,Battery Electric Vehicle (BEV),239,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Yakima,Selah,2018,TESLA,MODEL 3,Battery Electric Vehicle (BEV),215,PACIFICORP
+Kitsap,Kingston,2016,TESLA,MODEL S,Battery Electric Vehicle (BEV),210,PUGET SOUND ENERGY INC
+King,Seattle,2012,NISSAN,LEAF,Battery Electric Vehicle (BEV),73,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+Kitsap,Bremerton,2016,NISSAN,LEAF,Battery Electric Vehicle (BEV),84,PUGET SOUND ENERGY INC
+King,Seattle,2019,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+King,Bellevue,2019,KIA,NIRO,Battery Electric Vehicle (BEV),239,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+King,Seattle,2016,NISSAN,LEAF,Battery Electric Vehicle (BEV),84,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+King,Seattle,2014,TESLA,MODEL S,Battery Electric Vehicle (BEV),208,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+Thurston,Tumwater,2014,NISSAN,LEAF,Battery Electric Vehicle (BEV),84,PUGET SOUND ENERGY INC
+Thurston,Lacey,2014,FIAT,500,Battery Electric Vehicle (BEV),87,PUGET SOUND ENERGY INC
+King,Bellevue,2017,TESLA,MODEL X,Battery Electric Vehicle (BEV),200,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Yakima,Yakima,2019,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),238,PACIFICORP
+Kitsap,Port Orchard,2015,CHEVROLET,VOLT,Plug-in Hybrid Electric Vehicle (PHEV),38,PUGET SOUND ENERGY INC
+Thurston,Lacey,2020,TOYOTA,PRIUS PRIME,Plug-in Hybrid Electric Vehicle (PHEV),25,PUGET SOUND ENERGY INC
+Yakima,Selah,2016,TESLA,MODEL X,Battery Electric Vehicle (BEV),200,PACIFICORP
+Thurston,Olympia,2022,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),30,PUGET SOUND ENERGY INC
+Snohomish,Bothell,2022,AUDI,Q5,Plug-in Hybrid Electric Vehicle (PHEV),22,PUGET SOUND ENERGY INC
+Snohomish,Bothell,2017,TESLA,MODEL X,Battery Electric Vehicle (BEV),200,PUGET SOUND ENERGY INC
+Kitsap,Bremerton,2015,VOLKSWAGEN,E-GOLF,Battery Electric Vehicle (BEV),83,PUGET SOUND ENERGY INC
+Thurston,Olympia,2019,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),238,PUGET SOUND ENERGY INC
+Thurston,Olympia,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),308,PUGET SOUND ENERGY INC
+Thurston,Lacey,2016,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),14,PUGET SOUND ENERGY INC
+Thurston,Olympia,2021,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21,PUGET SOUND ENERGY INC
+Thurston,Tumwater,2017,FIAT,500,Battery Electric Vehicle (BEV),84,PUGET SOUND ENERGY INC
+King,Seattle,2016,KIA,SOUL,Battery Electric Vehicle (BEV),93,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+King,Shoreline,2018,HONDA,CLARITY,Plug-in Hybrid Electric Vehicle (PHEV),47,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+Yakima,Yakima,2021,AUDI,Q5 E,Plug-in Hybrid Electric Vehicle (PHEV),18,PACIFICORP
+King,Seattle,2017,NISSAN,LEAF,Battery Electric Vehicle (BEV),107,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+Thurston,Lacey,2018,SMART,EQ FORTWO,Battery Electric Vehicle (BEV),58,PUGET SOUND ENERGY INC
+Kitsap,Port Orchard,2017,NISSAN,LEAF,Battery Electric Vehicle (BEV),107,PUGET SOUND ENERGY INC
+Kitsap,Port Orchard,2017,BMW,I3,Plug-in Hybrid Electric Vehicle (PHEV),97,PUGET SOUND ENERGY INC
+King,Seattle,2023,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),30,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+Kitsap,Bremerton,2023,FORD,F-150,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC
+King,Seattle,2016,VOLKSWAGEN,E-GOLF,Battery Electric Vehicle (BEV),83,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+Thurston,Olympia,2014,NISSAN,LEAF,Battery Electric Vehicle (BEV),84,PUGET SOUND ENERGY INC
+Snohomish,Edmonds,2021,VOLVO,XC90,Plug-in Hybrid Electric Vehicle (PHEV),18,PUGET SOUND ENERGY INC
+King,Auburn,2021,BMW,X3,Plug-in Hybrid Electric Vehicle (PHEV),17,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Thurston,Olympia,2019,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,PUGET SOUND ENERGY INC
+Thurston,Lacey,2019,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,PUGET SOUND ENERGY INC
+Kitsap,Hansville,2017,CHEVROLET,VOLT,Plug-in Hybrid Electric Vehicle (PHEV),53,PUGET SOUND ENERGY INC
+Snohomish,Bothell,2019,AUDI,E-TRON,Battery Electric Vehicle (BEV),204,PUGET SOUND ENERGY INC
+Kitsap,Bainbridge Island,2017,TESLA,MODEL S,Battery Electric Vehicle (BEV),210,PUGET SOUND ENERGY INC
+Snohomish,Lake Stevens,2018,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),238,PUGET SOUND ENERGY INC
+Kitsap,Bainbridge Island,2018,TESLA,MODEL 3,Battery Electric Vehicle (BEV),215,PUGET SOUND ENERGY INC
+Yakima,Yakima,2018,TESLA,MODEL 3,Battery Electric Vehicle (BEV),215,PACIFICORP
+King,Seattle,2022,VOLVO,XC90,Plug-in Hybrid Electric Vehicle (PHEV),18,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+King,Seattle,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),266,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+King,Seattle,2021,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),30,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+Thurston,Tumwater,2015,FORD,FUSION,Plug-in Hybrid Electric Vehicle (PHEV),19,PUGET SOUND ENERGY INC
+King,Medina,2020,TESLA,MODEL S,Battery Electric Vehicle (BEV),330,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Thurston,Olympia,2016,FIAT,500,Battery Electric Vehicle (BEV),84,PUGET SOUND ENERGY INC
+King,Seattle,2014,NISSAN,LEAF,Battery Electric Vehicle (BEV),84,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+King,Seattle,2022,VOLVO,XC60,Plug-in Hybrid Electric Vehicle (PHEV),18,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+King,Seattle,2017,FORD,FUSION,Plug-in Hybrid Electric Vehicle (PHEV),21,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+Kitsap,Silverdale,2016,FORD,FUSION,Plug-in Hybrid Electric Vehicle (PHEV),19,PUGET SOUND ENERGY INC
+Thurston,Lacey,2022,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC
+Snohomish,Edmonds,2016,TESLA,MODEL S,Battery Electric Vehicle (BEV),210,PUGET SOUND ENERGY INC
+Thurston,Lacey,2014,FORD,C-MAX,Plug-in Hybrid Electric Vehicle (PHEV),19,PUGET SOUND ENERGY INC
+Yakima,Selah,2018,TESLA,MODEL S,Battery Electric Vehicle (BEV),249,PACIFICORP
+Thurston,Tenino,2018,PORSCHE,CAYENNE,Plug-in Hybrid Electric Vehicle (PHEV),14,PUGET SOUND ENERGY INC
+King,Seattle,2019,HYUNDAI,KONA,Battery Electric Vehicle (BEV),258,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+King,Seattle,2013,NISSAN,LEAF,Battery Electric Vehicle (BEV),75,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+King,Seattle,2022,TOYOTA,RAV4 PRIME,Plug-in Hybrid Electric Vehicle (PHEV),42,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+Whatcom,Bellingham,2017,CHEVROLET,VOLT,Plug-in Hybrid Electric Vehicle (PHEV),53,PUGET SOUND ENERGY INC||PUD NO 1 OF WHATCOM COUNTY
+Snohomish,Woodway,2019,AUDI,E-TRON,Battery Electric Vehicle (BEV),204,PUGET SOUND ENERGY INC
+Kitsap,Port Orchard,2014,FORD,C-MAX,Plug-in Hybrid Electric Vehicle (PHEV),19,PUGET SOUND ENERGY INC
+Snohomish,Edmonds,2016,NISSAN,LEAF,Battery Electric Vehicle (BEV),84,PUGET SOUND ENERGY INC
+King,North Bend,2023,VOLVO,XC60,Plug-in Hybrid Electric Vehicle (PHEV),35,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Thurston,Olympia,2016,NISSAN,LEAF,Battery Electric Vehicle (BEV),84,PUGET SOUND ENERGY INC
+Snohomish,Marysville,2020,TESLA,MODEL Y,Battery Electric Vehicle (BEV),291,PUGET SOUND ENERGY INC
+Kitsap,Bremerton,2018,TESLA,MODEL 3,Battery Electric Vehicle (BEV),215,PUGET SOUND ENERGY INC
+Thurston,Olympia,2023,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC
+Pierce,Puyallup,2021,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),30,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+King,Redmond,2019,BMW,I3,Battery Electric Vehicle (BEV),153,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Whitman,Pullman,2023,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21,AVISTA CORP
+Thurston,Rainier,2014,BMW,I3,Battery Electric Vehicle (BEV),81,PUGET SOUND ENERGY INC
+Yakima,Moxee,2018,NISSAN,LEAF,Battery Electric Vehicle (BEV),151,PACIFICORP
+Yakima,Yakima,2022,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0,PACIFICORP
+Island,Oak Harbor,2015,NISSAN,LEAF,Battery Electric Vehicle (BEV),84,PUGET SOUND ENERGY INC
+Skagit,Mount Vernon,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),322,PUGET SOUND ENERGY INC
+Yakima,Tieton,2019,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,PACIFICORP
+King,Redmond,2023,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Kittitas,Cle Elum,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),322,PUGET SOUND ENERGY INC
+Pierce,Dupont,2017,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),238,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Thurston,Yelm,2015,FIAT,500,Battery Electric Vehicle (BEV),87,PUGET SOUND ENERGY INC
+King,Kirkland,2019,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),238,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Thurston,Olympia,2023,KIA,NIRO,Plug-in Hybrid Electric Vehicle (PHEV),33,NO KNOWN ELECTRIC UTILITY SERVICE
+King,Renton,2023,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+King,Issaquah,2018,TESLA,MODEL X,Battery Electric Vehicle (BEV),238,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+King,Issaquah,2019,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Snohomish,Mukilteo,2021,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC
+King,Bellevue,2015,TESLA,MODEL S,Battery Electric Vehicle (BEV),208,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Kitsap,Kingston,2019,NISSAN,LEAF,Battery Electric Vehicle (BEV),150,PUGET SOUND ENERGY INC
+Snohomish,Everett,2021,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),25,PUGET SOUND ENERGY INC
+Snohomish,Mukilteo,2018,CHRYSLER,PACIFICA,Plug-in Hybrid Electric Vehicle (PHEV),33,PUGET SOUND ENERGY INC
+Skagit,Burlington,2014,NISSAN,LEAF,Battery Electric Vehicle (BEV),84,PUGET SOUND ENERGY INC
+King,Seattle,2015,CHEVROLET,SPARK,Battery Electric Vehicle (BEV),82,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+Whitman,Pullman,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),322,AVISTA CORP
+Thurston,Olympia,2018,TESLA,MODEL X,Battery Electric Vehicle (BEV),238,PUGET SOUND ENERGY INC
+Snohomish,Lake Stevens,2014,FORD,C-MAX,Plug-in Hybrid Electric Vehicle (PHEV),19,PUGET SOUND ENERGY INC
+Kitsap,Poulsbo,2016,NISSAN,LEAF,Battery Electric Vehicle (BEV),84,PUGET SOUND ENERGY INC
+Snohomish,Everett,2012,NISSAN,LEAF,Battery Electric Vehicle (BEV),73,PUGET SOUND ENERGY INC
+Snohomish,Woodway,2015,TESLA,MODEL S,Battery Electric Vehicle (BEV),208,PUGET SOUND ENERGY INC
+Snohomish,Lake Stevens,2017,KIA,OPTIMA,Plug-in Hybrid Electric Vehicle (PHEV),29,PUGET SOUND ENERGY INC
+Spokane,Spokane,2022,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0,MODERN ELECTRIC WATER COMPANY
+Skagit,Anacortes,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),322,PUGET SOUND ENERGY INC
+Whatcom,Bellingham,2022,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC||PUD NO 1 OF WHATCOM COUNTY
+King,Burien,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),322,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Skagit,La Conner,2019,TESLA,MODEL X,Battery Electric Vehicle (BEV),289,PUGET SOUND ENERGY INC
+Snohomish,Mukilteo,2015,FORD,FUSION,Plug-in Hybrid Electric Vehicle (PHEV),19,PUGET SOUND ENERGY INC
+Walla Walla,Walla Walla,2023,JEEP,GRAND CHEROKEE,Plug-in Hybrid Electric Vehicle (PHEV),25,PACIFICORP
+King,Duvall,2018,TESLA,MODEL 3,Battery Electric Vehicle (BEV),215,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Island,Freeland,2023,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC
+Skagit,Anacortes,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),266,PUGET SOUND ENERGY INC
+Skagit,Anacortes,2018,HONDA,CLARITY,Plug-in Hybrid Electric Vehicle (PHEV),47,PUGET SOUND ENERGY INC
+Island,Oak Harbor,2018,TESLA,MODEL 3,Battery Electric Vehicle (BEV),215,PUGET SOUND ENERGY INC
+Chelan,Wenatchee,2014,NISSAN,LEAF,Battery Electric Vehicle (BEV),84,PUD NO 1 OF CHELAN COUNTY
+Snohomish,Everett,2019,NISSAN,LEAF,Battery Electric Vehicle (BEV),150,PUGET SOUND ENERGY INC
+Thurston,Olympia,2017,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),238,PUGET SOUND ENERGY INC
+Spokane,Spokane,2013,FORD,FOCUS,Battery Electric Vehicle (BEV),76,MODERN ELECTRIC WATER COMPANY
+Snohomish,Monroe,2011,NISSAN,LEAF,Battery Electric Vehicle (BEV),73,PUGET SOUND ENERGY INC
+Yakima,Yakima,2019,NISSAN,LEAF,Battery Electric Vehicle (BEV),150,PACIFICORP
+Snohomish,Everett,2021,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC
+Kittitas,Cle Elum,2021,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21,PUGET SOUND ENERGY INC
+Snohomish,Monroe,2022,RIVIAN,R1T,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC
+Snohomish,Everett,2018,TESLA,MODEL 3,Battery Electric Vehicle (BEV),215,PUGET SOUND ENERGY INC
+Kittitas,Cle Elum,2017,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),238,PUGET SOUND ENERGY INC
+King,Newcastle,2018,TESLA,MODEL X,Battery Electric Vehicle (BEV),238,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+King,Burien,2013,CHEVROLET,VOLT,Plug-in Hybrid Electric Vehicle (PHEV),38,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+Yakima,Yakima,2022,AUDI,Q5,Plug-in Hybrid Electric Vehicle (PHEV),23,PACIFICORP
+Snohomish,Lynnwood,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),266,PUGET SOUND ENERGY INC
+Snohomish,Everett,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),308,PUGET SOUND ENERGY INC
+Kitsap,Poulsbo,2011,NISSAN,LEAF,Battery Electric Vehicle (BEV),73,PUGET SOUND ENERGY INC
+Snohomish,Bothell,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),308,PUGET SOUND ENERGY INC
+Snohomish,Everett,2020,TESLA,MODEL Y,Battery Electric Vehicle (BEV),291,PUGET SOUND ENERGY INC
+Snohomish,Bothell,2016,TESLA,MODEL S,Battery Electric Vehicle (BEV),210,PUGET SOUND ENERGY INC
+Grant,Quincy,2020,FORD,FUSION,Plug-in Hybrid Electric Vehicle (PHEV),26,PUD NO 2 OF GRANT COUNTY
+Walla Walla,Walla Walla,2018,CHRYSLER,PACIFICA,Plug-in Hybrid Electric Vehicle (PHEV),33,PACIFICORP
+King,Redmond,2019,NISSAN,LEAF,Battery Electric Vehicle (BEV),150,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Skagit,Mount Vernon,2018,NISSAN,LEAF,Battery Electric Vehicle (BEV),151,PUGET SOUND ENERGY INC
+Chelan,Wenatchee,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),322,PUD NO 1 OF CHELAN COUNTY
+Snohomish,Everett,2014,NISSAN,LEAF,Battery Electric Vehicle (BEV),84,PUGET SOUND ENERGY INC
+King,Seattle,2019,VOLKSWAGEN,E-GOLF,Battery Electric Vehicle (BEV),125,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+Chelan,Cashmere,2022,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0,PUD NO 1 OF CHELAN COUNTY
+Snohomish,Bothell,2014,NISSAN,LEAF,Battery Electric Vehicle (BEV),84,PUGET SOUND ENERGY INC
+King,Renton,2020,FORD,FUSION,Plug-in Hybrid Electric Vehicle (PHEV),26,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Walla Walla,Walla Walla,2019,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),238,PACIFICORP
+Snohomish,Snohomish,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),322,PUGET SOUND ENERGY INC
+Skagit,Mount Vernon,2018,TOYOTA,PRIUS PRIME,Plug-in Hybrid Electric Vehicle (PHEV),25,PUGET SOUND ENERGY INC
+Snohomish,Lynnwood,2017,NISSAN,LEAF,Battery Electric Vehicle (BEV),107,PUGET SOUND ENERGY INC
+Snohomish,Lake Stevens,2023,VOLVO,XC90,Plug-in Hybrid Electric Vehicle (PHEV),32,PUGET SOUND ENERGY INC
+Whatcom,Bellingham,2014,FIAT,500,Battery Electric Vehicle (BEV),87,PUGET SOUND ENERGY INC||PUD NO 1 OF WHATCOM COUNTY
+Snohomish,Snohomish,2021,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),25,PUGET SOUND ENERGY INC
+Skagit,Concrete,2017,AUDI,A3,Plug-in Hybrid Electric Vehicle (PHEV),16,PUGET SOUND ENERGY INC
+Snohomish,Edmonds,2021,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC
+Whitman,Pullman,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),266,AVISTA CORP
+Grant,Soap Lake,2021,CHRYSLER,PACIFICA,Plug-in Hybrid Electric Vehicle (PHEV),32,PUD NO 2 OF GRANT COUNTY
+Spokane,Spokane,2020,TESLA,MODEL Y,Battery Electric Vehicle (BEV),291,MODERN ELECTRIC WATER COMPANY
+Thurston,Lacey,2011,NISSAN,LEAF,Battery Electric Vehicle (BEV),73,PUGET SOUND ENERGY INC
+Snohomish,Lynnwood,2015,NISSAN,LEAF,Battery Electric Vehicle (BEV),84,PUGET SOUND ENERGY INC
+Snohomish,Mill Creek,2020,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),259,PUGET SOUND ENERGY INC
+Snohomish,Monroe,2022,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21,PUGET SOUND ENERGY INC
+Thurston,Lacey,2020,KIA,NIRO,Battery Electric Vehicle (BEV),239,PUGET SOUND ENERGY INC
+Snohomish,Marysville,2012,CHEVROLET,VOLT,Plug-in Hybrid Electric Vehicle (PHEV),35,PUGET SOUND ENERGY INC
+Thurston,Olympia,2020,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),259,PUGET SOUND ENERGY INC
+Island,Coupeville,2019,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),238,PUGET SOUND ENERGY INC
+Snohomish,Everett,2013,NISSAN,LEAF,Battery Electric Vehicle (BEV),75,PUGET SOUND ENERGY INC
+Snohomish,Edmonds,2015,TESLA,MODEL S,Battery Electric Vehicle (BEV),208,PUGET SOUND ENERGY INC
+Island,Freeland,2017,TESLA,MODEL X,Battery Electric Vehicle (BEV),200,PUGET SOUND ENERGY INC
+King,Kenmore,2022,AUDI,E-TRON,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Snohomish,Everett,2021,FORD,ESCAPE,Plug-in Hybrid Electric Vehicle (PHEV),38,PUGET SOUND ENERGY INC
+Kitsap,Bremerton,2016,KIA,SOUL,Battery Electric Vehicle (BEV),93,PUGET SOUND ENERGY INC
+Island,Coupeville,2017,FIAT,500,Battery Electric Vehicle (BEV),84,PUGET SOUND ENERGY INC
+Snohomish,Edmonds,2023,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC
+Yakima,Yakima,2023,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),0,PACIFICORP
+Snohomish,Snohomish,2017,FORD,C-MAX,Plug-in Hybrid Electric Vehicle (PHEV),20,PUGET SOUND ENERGY INC
+Kitsap,Kingston,2012,CHEVROLET,VOLT,Plug-in Hybrid Electric Vehicle (PHEV),35,PUGET SOUND ENERGY INC
+Snohomish,Bothell,2019,CHRYSLER,PACIFICA,Plug-in Hybrid Electric Vehicle (PHEV),32,PUGET SOUND ENERGY INC
+Snohomish,Bothell,2023,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC
+Walla Walla,Walla Walla,2015,FORD,FUSION,Plug-in Hybrid Electric Vehicle (PHEV),19,PACIFICORP
+Chelan,Leavenworth,2019,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),238,PUD NO 1 OF CHELAN COUNTY
+Snohomish,Marysville,2019,NISSAN,LEAF,Battery Electric Vehicle (BEV),150,PUGET SOUND ENERGY INC
+Snohomish,Edmonds,2018,VOLVO,XC60,Plug-in Hybrid Electric Vehicle (PHEV),17,PUGET SOUND ENERGY INC
+Whatcom,Bellingham,2013,NISSAN,LEAF,Battery Electric Vehicle (BEV),75,PUGET SOUND ENERGY INC||PUD NO 1 OF WHATCOM COUNTY
+Thurston,Olympia,2014,BMW,I3,Plug-in Hybrid Electric Vehicle (PHEV),72,PUGET SOUND ENERGY INC
+Snohomish,Monroe,2018,TESLA,MODEL 3,Battery Electric Vehicle (BEV),215,PUGET SOUND ENERGY INC
+Thurston,Olympia,2017,TESLA,MODEL X,Battery Electric Vehicle (BEV),200,PUGET SOUND ENERGY INC
+Chelan,Wenatchee,2015,NISSAN,LEAF,Battery Electric Vehicle (BEV),84,PUD NO 1 OF CHELAN COUNTY
+Grant,Moses Lake,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),266,PUD NO 2 OF GRANT COUNTY
+Snohomish,Bothell,2016,NISSAN,LEAF,Battery Electric Vehicle (BEV),84,PUGET SOUND ENERGY INC
+King,Snoqualmie,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),322,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Spokane,Spokane,2017,NISSAN,LEAF,Battery Electric Vehicle (BEV),107,MODERN ELECTRIC WATER COMPANY
+Skagit,Burlington,2015,NISSAN,LEAF,Battery Electric Vehicle (BEV),84,PUGET SOUND ENERGY INC
+Grant,Coulee City,2013,FORD,FUSION,Plug-in Hybrid Electric Vehicle (PHEV),19,PUD NO 2 OF GRANT COUNTY
+Snohomish,Snohomish,2014,NISSAN,LEAF,Battery Electric Vehicle (BEV),84,PUGET SOUND ENERGY INC
+Snohomish,Snohomish,2022,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC
+Skagit,Sedro-Woolley,2015,BMW,I3,Plug-in Hybrid Electric Vehicle (PHEV),72,PUGET SOUND ENERGY INC
+Whatcom,Bellingham,2021,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC||PUD NO 1 OF WHATCOM COUNTY
+Snohomish,Bothell,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),266,PUGET SOUND ENERGY INC
+Thurston,Lacey,2011,CHEVROLET,VOLT,Plug-in Hybrid Electric Vehicle (PHEV),35,PUGET SOUND ENERGY INC
+Chelan,Wenatchee,2018,TESLA,MODEL 3,Battery Electric Vehicle (BEV),215,PUD NO 1 OF CHELAN COUNTY
+King,Kent,2017,FORD,C-MAX,Plug-in Hybrid Electric Vehicle (PHEV),20,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Pierce,Puyallup,2023,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),30,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Snohomish,Lynnwood,2017,KIA,SOUL EV,Battery Electric Vehicle (BEV),93,PUGET SOUND ENERGY INC
+Skagit,Bow,2016,NISSAN,LEAF,Battery Electric Vehicle (BEV),84,PUGET SOUND ENERGY INC
+Snohomish,Arlington,2019,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),238,BONNEVILLE POWER ADMINISTRATION||PUD 1 OF SNOHOMISH COUNTY
+Snohomish,Bothell,2013,NISSAN,LEAF,Battery Electric Vehicle (BEV),75,PUGET SOUND ENERGY INC
+King,Auburn,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),266,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Skagit,Concrete,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),308,PUGET SOUND ENERGY INC
+Kittitas,Ellensburg,2016,FIAT,500,Battery Electric Vehicle (BEV),84,PUGET SOUND ENERGY INC
+Snohomish,Snohomish,2022,FORD,ESCAPE,Plug-in Hybrid Electric Vehicle (PHEV),38,PUGET SOUND ENERGY INC
+Kitsap,Silverdale,2018,TESLA,MODEL S,Battery Electric Vehicle (BEV),249,PUGET SOUND ENERGY INC
+Kitsap,Bremerton,2022,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC
+Snohomish,Bothell,2018,TESLA,MODEL X,Battery Electric Vehicle (BEV),238,PUGET SOUND ENERGY INC
+Kitsap,Bremerton,2023,RIVIAN,R1T,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC
+Snohomish,Edmonds,2017,TESLA,MODEL S,Battery Electric Vehicle (BEV),210,PUGET SOUND ENERGY INC
+King,Maple Valley,2022,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Skagit,Sedro-Woolley,2021,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC
+Walla Walla,Walla Walla,2018,MITSUBISHI,OUTLANDER,Plug-in Hybrid Electric Vehicle (PHEV),22,PACIFICORP
+King,Seattle,2016,VOLVO,XC90,Plug-in Hybrid Electric Vehicle (PHEV),13,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+Island,Clinton,2017,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),238,PUGET SOUND ENERGY INC
+King,Bellevue,2022,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Snohomish,Edmonds,2013,NISSAN,LEAF,Battery Electric Vehicle (BEV),75,PUGET SOUND ENERGY INC
+Snohomish,Edmonds,2020,TESLA,MODEL Y,Battery Electric Vehicle (BEV),291,PUGET SOUND ENERGY INC
+Pierce,Buckley,2023,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Snohomish,Everett,2017,KIA,SOUL EV,Battery Electric Vehicle (BEV),93,PUGET SOUND ENERGY INC
+Snohomish,Lynnwood,2019,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,PUGET SOUND ENERGY INC
+Snohomish,Bothell,2017,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),238,PUGET SOUND ENERGY INC
+Island,Camano Island,2011,TESLA,ROADSTER,Battery Electric Vehicle (BEV),245,BONNEVILLE POWER ADMINISTRATION||PUD 1 OF SNOHOMISH COUNTY
+Stevens,Rice,2019,KIA,NIRO,Battery Electric Vehicle (BEV),239,AVISTA CORP
+Snohomish,Edmonds,2019,KIA,NIRO,Battery Electric Vehicle (BEV),239,PUGET SOUND ENERGY INC
+Snohomish,Monroe,2019,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,PUGET SOUND ENERGY INC
+Kitsap,Bainbridge Island,2016,SMART,FORTWO,Battery Electric Vehicle (BEV),68,PUGET SOUND ENERGY INC
+Snohomish,Mukilteo,2021,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),25,PUGET SOUND ENERGY INC
+Snohomish,Bothell,2021,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC
+Clallam,Port Angeles,2018,TOYOTA,PRIUS PRIME,Plug-in Hybrid Electric Vehicle (PHEV),25,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLALLAM COUNTY
+Snohomish,Marysville,2018,TESLA,MODEL 3,Battery Electric Vehicle (BEV),215,PUGET SOUND ENERGY INC
+Snohomish,Bothell,2023,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21,PUGET SOUND ENERGY INC
+Island,Coupeville,2020,NISSAN,LEAF,Battery Electric Vehicle (BEV),215,PUGET SOUND ENERGY INC
+Stevens,Chewelah,2014,CHEVROLET,VOLT,Plug-in Hybrid Electric Vehicle (PHEV),38,AVISTA CORP
+Skagit,Anacortes,2011,NISSAN,LEAF,Battery Electric Vehicle (BEV),73,PUGET SOUND ENERGY INC
+Snohomish,Everett,2022,FORD,MUSTANG MACH-E,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC
+Snohomish,Bothell,2022,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),30,PUGET SOUND ENERGY INC
+Snohomish,Mountlake Terrace,2016,NISSAN,LEAF,Battery Electric Vehicle (BEV),84,PUGET SOUND ENERGY INC
+Snohomish,Edmonds,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),266,PUGET SOUND ENERGY INC
+Snohomish,Everett,2015,NISSAN,LEAF,Battery Electric Vehicle (BEV),84,PUGET SOUND ENERGY INC
+Snohomish,Lake Stevens,2022,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC
+Snohomish,Bothell,2022,RIVIAN,R1T,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC
+Chelan,Leavenworth,2015,NISSAN,LEAF,Battery Electric Vehicle (BEV),84,PUD NO 1 OF CHELAN COUNTY
+Island,Clinton,2015,TESLA,MODEL S,Battery Electric Vehicle (BEV),208,PUGET SOUND ENERGY INC
+Snohomish,Edmonds,2018,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),13,PUGET SOUND ENERGY INC
+King,Vashon,2014,NISSAN,LEAF,Battery Electric Vehicle (BEV),84,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Lewis,Chehalis,2020,TESLA,MODEL X,Battery Electric Vehicle (BEV),293,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Island,Freeland,2015,NISSAN,LEAF,Battery Electric Vehicle (BEV),84,PUGET SOUND ENERGY INC
+Snohomish,Snohomish,2022,RIVIAN,R1T,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC
+Snohomish,Mill Creek,2015,BMW,I3,Battery Electric Vehicle (BEV),81,PUGET SOUND ENERGY INC
+Thurston,Olympia,2017,KIA,SOUL EV,Battery Electric Vehicle (BEV),93,PUGET SOUND ENERGY INC
+Island,Langley,2018,VOLVO,XC60,Plug-in Hybrid Electric Vehicle (PHEV),17,PUGET SOUND ENERGY INC
+Thurston,Lacey,2021,VOLVO,XC60,Plug-in Hybrid Electric Vehicle (PHEV),18,PUGET SOUND ENERGY INC
+Snohomish,Edmonds,2015,NISSAN,LEAF,Battery Electric Vehicle (BEV),84,PUGET SOUND ENERGY INC
+Kittitas,South Cle Elum,2020,VOLVO,XC90,Plug-in Hybrid Electric Vehicle (PHEV),18,PUGET SOUND ENERGY INC
+Island,Langley,2013,NISSAN,LEAF,Battery Electric Vehicle (BEV),75,PUGET SOUND ENERGY INC
+Snohomish,Edmonds,2018,TESLA,MODEL 3,Battery Electric Vehicle (BEV),215,PUGET SOUND ENERGY INC
+Island,Clinton,2020,NISSAN,LEAF,Battery Electric Vehicle (BEV),215,PUGET SOUND ENERGY INC
+Grant,Royal City,2022,RIVIAN,R1T,Battery Electric Vehicle (BEV),0,PUD NO 2 OF GRANT COUNTY
+Snohomish,Edmonds,2013,FORD,C-MAX,Plug-in Hybrid Electric Vehicle (PHEV),19,PUGET SOUND ENERGY INC
+Snohomish,Bothell,2017,NISSAN,LEAF,Battery Electric Vehicle (BEV),107,PUGET SOUND ENERGY INC
+King,Renton,2019,TESLA,MODEL X,Battery Electric Vehicle (BEV),289,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Grant,Ephrata,2018,CHRYSLER,PACIFICA,Plug-in Hybrid Electric Vehicle (PHEV),33,PUD NO 2 OF GRANT COUNTY
+Thurston,Yelm,2019,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,PUGET SOUND ENERGY INC
+Chelan,Cashmere,2019,NISSAN,LEAF,Battery Electric Vehicle (BEV),150,PUD NO 1 OF CHELAN COUNTY
+Chelan,Entiat,2020,NISSAN,LEAF,Battery Electric Vehicle (BEV),149,PUD NO 1 OF CHELAN COUNTY
+King,Carnation,2011,NISSAN,LEAF,Battery Electric Vehicle (BEV),73,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Snohomish,Mukilteo,2016,KIA,SOUL,Battery Electric Vehicle (BEV),93,PUGET SOUND ENERGY INC
+Grant,Moses Lake,2018,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),238,PUD NO 2 OF GRANT COUNTY
+Walla Walla,Walla Walla,2018,BMW,740E,Plug-in Hybrid Electric Vehicle (PHEV),14,PACIFICORP
+King,Maple Valley,2014,BMW,I3,Plug-in Hybrid Electric Vehicle (PHEV),72,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Snohomish,Snohomish,2023,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC
+Snohomish,Bothell,2022,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC
+Snohomish,Snohomish,2015,NISSAN,LEAF,Battery Electric Vehicle (BEV),84,PUGET SOUND ENERGY INC
+Snohomish,Woodinville,2019,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,PUGET SOUND ENERGY INC
+Kittitas,Cle Elum,2019,TESLA,MODEL S,Battery Electric Vehicle (BEV),270,PUGET SOUND ENERGY INC
+Spokane,Spokane,2018,TESLA,MODEL 3,Battery Electric Vehicle (BEV),215,MODERN ELECTRIC WATER COMPANY
+Whitman,Pullman,2019,MITSUBISHI,OUTLANDER,Plug-in Hybrid Electric Vehicle (PHEV),22,AVISTA CORP
+Thurston,Olympia,2023,KIA,NIRO,Plug-in Hybrid Electric Vehicle (PHEV),33,PUGET SOUND ENERGY INC
+Snohomish,Everett,2022,FORD,ESCAPE,Plug-in Hybrid Electric Vehicle (PHEV),38,PUGET SOUND ENERGY INC
+Thurston,Olympia,2021,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC
+Island,Langley,2015,TESLA,MODEL S,Battery Electric Vehicle (BEV),208,PUGET SOUND ENERGY INC
+Skagit,Anacortes,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),308,PUGET SOUND ENERGY INC
+Snohomish,Lynnwood,2014,FORD,FUSION,Plug-in Hybrid Electric Vehicle (PHEV),19,PUGET SOUND ENERGY INC
+Okanogan,Pateros,2018,HONDA,CLARITY,Plug-in Hybrid Electric Vehicle (PHEV),47,PUD NO 1 OF OKANOGAN COUNTY
+Snohomish,Granite Falls,2018,NISSAN,LEAF,Battery Electric Vehicle (BEV),151,PUGET SOUND ENERGY INC
+King,Bellevue,2020,TESLA,MODEL Y,Battery Electric Vehicle (BEV),291,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Snohomish,Bothell,2017,FORD,FUSION,Plug-in Hybrid Electric Vehicle (PHEV),21,PUGET SOUND ENERGY INC
+King,Redmond,2016,TESLA,MODEL X,Battery Electric Vehicle (BEV),200,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Snohomish,Brier,2014,TESLA,MODEL S,Battery Electric Vehicle (BEV),208,PUGET SOUND ENERGY INC
+Stevens,Colville,2016,FORD,C-MAX,Plug-in Hybrid Electric Vehicle (PHEV),19,AVISTA CORP
+Clark,Vancouver,2023,AUDI,Q5 E,Plug-in Hybrid Electric Vehicle (PHEV),23,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLARK COUNTY - (WA)
+Thurston,Olympia,2021,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC
+Thurston,Olympia,2013,NISSAN,LEAF,Battery Electric Vehicle (BEV),75,PUGET SOUND ENERGY INC
+Skagit,Burlington,2019,KIA,NIRO,Battery Electric Vehicle (BEV),239,PUGET SOUND ENERGY INC
+Snohomish,Snohomish,2022,KIA,EV6,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC
+King,Seattle,2018,TESLA,MODEL 3,Battery Electric Vehicle (BEV),215,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+Snohomish,Marysville,2017,KIA,OPTIMA,Plug-in Hybrid Electric Vehicle (PHEV),29,PUGET SOUND ENERGY INC
+Kitsap,Bainbridge Island,2019,BMW,I3,Battery Electric Vehicle (BEV),153,PUGET SOUND ENERGY INC
+Okanogan,Oroville,2014,TESLA,MODEL S,Battery Electric Vehicle (BEV),208,PUD NO 1 OF OKANOGAN COUNTY
+Pierce,Auburn,2023,NISSAN,LEAF,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Snohomish,Snohomish,2019,NISSAN,LEAF,Battery Electric Vehicle (BEV),150,PUGET SOUND ENERGY INC
+Snohomish,Bothell,2020,TESLA,MODEL X,Battery Electric Vehicle (BEV),293,PUGET SOUND ENERGY INC
+Snohomish,Lynnwood,2023,KIA,NIRO,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC
+Pierce,Graham,2017,BMW,I3,Plug-in Hybrid Electric Vehicle (PHEV),97,BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY
+Island,Langley,2020,TESLA,MODEL X,Battery Electric Vehicle (BEV),289,PUGET SOUND ENERGY INC
+Douglas,Waterville,2018,TESLA,MODEL X,Battery Electric Vehicle (BEV),238,PUD NO 1 OF DOUGLAS COUNTY
+Snohomish,Bothell,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),322,PUGET SOUND ENERGY INC
+Thurston,Lacey,2017,TESLA,MODEL X,Battery Electric Vehicle (BEV),200,PUGET SOUND ENERGY INC
+Snohomish,Marysville,2017,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),238,PUGET SOUND ENERGY INC
+Snohomish,Lynnwood,2022,FORD,ESCAPE,Plug-in Hybrid Electric Vehicle (PHEV),38,PUGET SOUND ENERGY INC
+Snohomish,Woodinville,2017,TESLA,MODEL X,Battery Electric Vehicle (BEV),200,PUGET SOUND ENERGY INC
+King,Redmond,2021,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Whatcom,Bellingham,2019,NISSAN,LEAF,Battery Electric Vehicle (BEV),150,PUGET SOUND ENERGY INC||PUD NO 1 OF WHATCOM COUNTY
+Snohomish,Marysville,2014,NISSAN,LEAF,Battery Electric Vehicle (BEV),84,PUGET SOUND ENERGY INC
+King,Issaquah,2023,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Kitsap,Port Orchard,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),266,PUGET SOUND ENERGY INC
+King,Shoreline,2023,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+Clark,La Center,2023,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLARK COUNTY - (WA)
+King,Seattle,2019,VOLVO,XC90,Plug-in Hybrid Electric Vehicle (PHEV),17,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+Pierce,Lakewood,2018,TESLA,MODEL S,Battery Electric Vehicle (BEV),249,BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY
+King,Tukwila,2023,SUBARU,SOLTERRA,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+King,Bellevue,2020,TESLA,MODEL X,Battery Electric Vehicle (BEV),293,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+King,Bellevue,2017,NISSAN,LEAF,Battery Electric Vehicle (BEV),107,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+King,Seattle,2017,AUDI,A3,Plug-in Hybrid Electric Vehicle (PHEV),16,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+King,Woodinville,2023,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Clark,Vancouver,2019,NISSAN,LEAF,Battery Electric Vehicle (BEV),150,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLARK COUNTY - (WA)
+King,Woodinville,2021,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Clark,Brush Prairie,2023,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLARK COUNTY - (WA)
+King,Kent,2017,TESLA,MODEL X,Battery Electric Vehicle (BEV),200,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+King,Woodinville,2021,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+King,Issaquah,2023,BMW,IX,Battery Electric Vehicle (BEV),0,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+Thurston,Olympia,2017,FIAT,500,Battery Electric Vehicle (BEV),84,PUGET SOUND ENERGY INC
+Jefferson,Port Townsend,2023,CHEVROLET,BOLT EUV,Battery Electric Vehicle (BEV),0,BONNEVILLE POWER ADMINISTRATION||PUGET SOUND ENERGY INC||PUD NO 1 OF JEFFERSON COUNTY
+King,Seattle,2021,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+King,Shoreline,2015,NISSAN,LEAF,Battery Electric Vehicle (BEV),84,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
