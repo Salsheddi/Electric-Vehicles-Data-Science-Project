@@ -36,10 +36,15 @@ The dataset predominantly consists of qualitative attributes (city, county, mode
 Exploration of the dataset will address the following questions:
 
 1.Which country has the highest adoption of electric vehicles?
+
 2.What are the trends in EV adoption over time?
+
 3.How does EV adoption vary by geographic location?
+
 4.Which manufacturers and models are most popular among electric vehicle owners?
+
 5.What is the relationship between electric vehicle range and vehicle type?
+
 6.Can we build a model that could classify vehicles based on their electric range?
 
 
